@@ -1,0 +1,24 @@
+{
+  "name": "angular-json-modifer",
+  "version": "1.0.0",
+  "description": "Angular6 module allows you to modify angular.json of your project for different types of assemblies",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akropolis7/angular-json-modifer.git"
+  },
+  "keywords": [
+    "angular.json",
+    "Angular6",
+    "angular-app"
+  ],
+  "author": "Akropolis7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akropolis7/angular-json-modifer/issues"
+  },
+  "homepage": "https://github.com/akropolis7/angular-json-modifer#readme"
+}

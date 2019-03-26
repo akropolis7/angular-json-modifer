@@ -1,0 +1,4 @@
+{
+  "configurationKeys": ["GulpTest1"],
+  "projectTypes": ["production", "production-br"]
+}

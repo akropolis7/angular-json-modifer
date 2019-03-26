@@ -22,14 +22,12 @@ Angular6 module allows you to modify angular.json of your project for different 
 configurationKeys - Наименование ваших приложений котрые необходимо учитывать
 projectTypes - Набор сборок (Сборку необходимо инициализировать самостоятельно иначе она будет упущенна)
 
-`
+```
 {
   "configurationKeys": ["Test1"], // AppName - angular.json/projects.Test1 - Может включать несколько приложений
-  
   "projectTypes": ["production", "production-br"] // angular.json/projects.Test1.architect.build.configurations.production
 }
-
-`
+```
 
 Использование:
 

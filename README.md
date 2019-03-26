@@ -11,13 +11,11 @@ Angular6 module allows you to modify angular.json of your project for different 
 
 Настройка `package.json`:
 
-`
+```
 "scripts": {
-
   "json-modifier": "node angular-json-modifer-master/gulpfile.js"
-  
 }
-`
+```
 
 Настройка `angular-json-modifer-master/editor-config.json`:
 
